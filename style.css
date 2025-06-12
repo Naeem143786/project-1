@@ -1,0 +1,23 @@
+div{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(48, 48, 77);
+    border: 10px solid pink;
+    display:inline-block;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    color:rgb(215, 18, 51);
+}
+#box1{
+    background-image: url("na-image.jpg");
+    background-size: cover;
+}
+#box2{
+    background-image: url("banda-image.jpg");
+    background-size: cover;
+    position: relative;
+}
+body{
+    background-color: rgb(96, 96, 206);
+}9700332007
